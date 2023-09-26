@@ -83,7 +83,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
-  color: #141d19; }
+  color: #14191d; }
 
 h1, .h1 {
   font-size: calc(1.4375rem + 2.25vw); }
@@ -13077,7 +13077,7 @@ button.back-to-top {
   color: #f17732; }
 
 /* ==================
-	10.3 Service
+
 =================== */
 .help-bx {
   position: relative;
